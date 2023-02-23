@@ -183,7 +183,7 @@ const artigosPenais = [
   },
   {
     article: "Art. 51",
-    name: "Extornação (necessita de provas)",
+    name: "Extorção (necessita de provas)",
     time: 15,
     trafficTicket: 15000,
     bail: 45000,
