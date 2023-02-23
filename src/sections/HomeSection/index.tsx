@@ -613,9 +613,7 @@ const HomeSection: React.FC = () => {
         <Styles.MadeByContainer>
           <Styles.MadeByContent>
             <Styles.ButtonInvisible onClick={handleNavigateToPortfolio}>
-              <Styles.MadeByText>
-                Modificado e atualizado por Lulfex
-              </Styles.MadeByText>
+              <Styles.MadeByText>Desenvolvido por Lulfex</Styles.MadeByText>
             </Styles.ButtonInvisible>
           </Styles.MadeByContent>
         </Styles.MadeByContainer>
@@ -623,7 +621,7 @@ const HomeSection: React.FC = () => {
         {/* ESCONDER FOOTER
         <Styles.FooterInfo>
           <Text
-            text="Projeto desenvolvido para a cidade Nexus RP"
+            text="Projeto desenvolvido para a cidade Infinity RP"
             align="left"
             color={colors.gray.white}
             size={10}
