@@ -324,7 +324,7 @@ const HomeSection: React.FC = () => {
 
   const handleNavigateToWhatsApp = useCallback(() => {
     let message =
-      "Olá Lulfex, tenho algo pra falar sobre a Calculadora da NexusRP!";
+      "Olá Lulfex, tenho algo pra falar sobre a Calculadora da InfinityPolice!";
 
     const wppURL = `https://api.whatsapp.com/send?l=pt-BR&phone='5562991624471'&text=${message}`;
 
