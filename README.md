@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="FeedGet" src=".github/preview.png" width="100%">
+  <img alt="FeedGet" src=".github/preview.jpg" width="100%">
 </h1>
 <br>
 <p align="center">
