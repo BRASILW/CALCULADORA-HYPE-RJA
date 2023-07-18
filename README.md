@@ -1,46 +1,77 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="FeedGet" src=".github/preview.png" width="100%">
+</h1>
+<br>
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-executando-o-projeto">Executando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+<p align="center">
+  <img src="https://img.shields.io/website?down_message=offline&logo=vercel&style=for-the-badge&up_message=online&url=https%3A%2F%2Fcalculadora-infinitypolice.vercel.app%2F&labelColor=f5f5f5&logoColor=black" alt="Server Status">
+  <img src="https://img.shields.io/github/last-commit/luysfernnando/Calculadora-Infinity-Police-v2?style=for-the-badge&color=27ae60&labelColor=f5f5f5" alt="Languages">
+  <img src="https://img.shields.io/github/languages/count/luysfernnando/Calculadora-Infinity-Police-v2?style=for-the-badge&color=27ae60&labelColor=f5f5f5" alt="Languages">
+  <img src="https://img.shields.io/github/license/luysfernnando/Calculadora-Infinity-Police-v2?style=for-the-badge&labelColor=f5f5f5&color=27ae60" alt="Licenses" />
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="https://calculadora-infinitypolice.vercel.app/">Clique aqui</a> para acessar a versão web
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ✨ Projeto
 
-### `npm test`
+A calculadora penal é uma aplicação web desenvolvida em ReactJs e TypeScript para o servidor de FiveM Infinity RP,  onde permite os policiais a calcular automaticamente as penalidades, multas e fianças de indivíduos que são detidos pela polícia. O projeto é 100% responsivo para telas com até 4k de resolução.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Tecnologias
 
-### `npm run build`
+Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<table border="0">
+ <tr>
+<td> JavaScript</td>
+<td> TypeScript</td>
+<td> React.JS</td>
+<td> Styled Components</td>
+<td> React Toastify</td>
+<td> React Icons</td>
+<td> React Router Dom</td>
+ </tr>
+</table>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🌟 Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   [ ] Adição e Remoção de penalidades na lista.
+-   [ ] 100% responsivo em resoluções até 4k.
+-   [ ] Penalidades divididas por categorias.
+-   [ ] Campo de resultados com a soma da Fiança, Multa e Tempo de Prisão.
+-   [ ] Notificações dinâmicas em diversas ações do site.
+-   [ ] Seletores com animação personalizada
 
-### `npm run eject`
+## 🎨 Layout
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 👨🏻‍💻 Executando o projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
+Em seguida, inicie o projeto.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Iniciando a versão web:
 
-## Learn More
+```cl
+yarn start ou npm run dev
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## :memo: Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+
+---
